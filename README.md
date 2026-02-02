@@ -9,7 +9,7 @@
 > 🚀 **One-click deployment for your private AI assistant.** Supports multi-platform integration and multiple LLM backends.
 
 <p align="center">
-<img src="photo/menu.png" alt="OpenClaw Configuration" width="600">
+<img src="assets/menu.png" alt="OpenClaw Configuration" width="600">
 </p>
 
 ## 💻 Requirements
